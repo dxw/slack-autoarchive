@@ -1,5 +1,13 @@
 # Autoarchive unused slack channels
 
+## dxw specific information
+
+This app is hosted on Heroku as `dxw-slack-autoarchive` and is deployed automatically from master.
+
+It is set to run once per week on Fridays.
+
+Submit a pull request to add or remove channels on the whitelist (`whitelist.txt`)
+
 ## Requirements
 
 - python3
