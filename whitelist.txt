@@ -32,6 +32,7 @@ showtellfridays
 sickness
 social
 standup
+systems
 talks-and-events
 tech-team
 todayilearned
